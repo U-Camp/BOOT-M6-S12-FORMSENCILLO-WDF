@@ -34,26 +34,29 @@ La idea es inspirarte con esta demostración de proyecto.
 
 ## 3. ¿Qué construirás?
 
-Este proyecto está enfocado en construir la interfaz estática de Google.
+Este proyecto está enfocado en construir un formulario sencillo con validaciones.
 
 Se te pide que sea una sola página que contenga las secciones siguientes:
   - **a. Header**
-    Sección que involucra la foto del perfil, iconos, logo de Google y las áreas principales del sitio.
+    Título del formulario.
   - **b. main**
-    Sección del contenedor para los elementos centrales de la página. 
+    Sección del formulario con los componentes que necesita (input, botones, checks, etc.) puedes agregar los que desees. 
   - **c. Footer**
-    Sección que incluye hipervínculos al final de la página.
+    Sección que incluye información de quién realizó el form, es decir, tu nombre y algún link a alguna red social que tengas.
 
 ****
 
 ## 4. Objetivos de aprendizaje
 
-El objetivo principal de este proyecto es desarrollar una interfaz utilizando HTML y CSS, en toda su aplicación.
+El objetivo principal de este proyecto es crear un formulario sencillo utilizando HTML, CSS, Bootstrap y JavaScript. Este formulario deberá comprobar que el usuario haya rellenado cada uno de los campos que se hayan integrado en el mismo.
 
 Aplicarás:
 
 - Etiquetas estándar HTML5.
 - Estilos con CSS
+- JavaScript
+- DOM
+- Eventos
 
 ****
 
@@ -69,6 +72,8 @@ Realizarse de manera individual
 - [ ] Aplicar en todo el sitio HTML semántico de estándar no.5 (HTML5).
 - [ ] Aplicar tipos de selectores en CSS.
 - [ ] Sección `Header`, `main`, `footer`
+- [ ] Programación en JavaScript
+- [ ] Eventos en JavaScript
 
 ### CONTROL DE VERSIONES
 - [ ] Crear un repositorio en GitHub y realizar mínimo 2 "commits" en tu repositorio.
