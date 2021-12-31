@@ -56,6 +56,7 @@ Aplicarás:
 - Estilos con CSS
 - JavaScript
 - DOM
+- Validación de Campos de Formulario
 - Eventos
 
 ****
