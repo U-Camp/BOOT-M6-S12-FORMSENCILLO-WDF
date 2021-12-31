@@ -1,6 +1,6 @@
 ![Banner](./imagenes/banner.png)
 
-# WDF M3 S3 Y S4: Clonación de la Interfaz de Google con HTML y CSS
+# WDF M6 S12: Formulario Sencillo con Validación
 
 ## **ÍNDICE**
 
@@ -14,12 +14,14 @@
 
 ## 1. Intro
 
-HTML trabaja de la mano con CSS para crear las páginas web que usamos todos los días en el navegador💻. Incluso, este sitio web en donde estás viendo este contenido está construido con HTML y CSS🤯 (junto con otros elementos que conocerás más adelante). Para este primer proyecto, con los conocimientos que tienes de HTML y CSS realizarás la clonación de la interfaz de Google, sí, esa que vez cada que haces una búsqueda en su navegador, ¿aceptas el reto🤓?
+En JavaScript, la interacción con el usuario se consigue mediante la captura de los eventos que éste produce. Un evento es una acción del usuario ante la cual puede realizarse algún proceso (por ejemplo, el cambio del valor de un formulario, o la pulsación de un enlace).
+
+Los eventos se capturan mediante los manejadores de eventos. El proceso a realizar se programa mediante funciones JavaScript llamadas por los manejadores de eventos.
 ****
 
 ## 2. Demo
 
-Puedes entrar a ver el demo en este vínculo: https://dazzling-nightingale-01ce86.netlify.app
+Puedes entrar a ver el demo en este vínculo: https://elegant-jepsen-39d7cf.netlify.app/
 
 La idea es inspirarte con esta demostración de proyecto. 
 
