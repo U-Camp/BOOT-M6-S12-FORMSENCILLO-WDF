@@ -61,7 +61,7 @@ Aplicarás:
 
 ****
 
-## 5. Requisitos y entregables
+## 5. Requisitos
 
 Usa esta lista para saber los requisitos mínimos del proyecto:
 
@@ -79,5 +79,4 @@ Realizarse de manera individual
 ### CONTROL DE VERSIONES
 - [ ] Crear un repositorio en GitHub y realizar mínimo 2 "commits" en tu repositorio.
 
-### ENTREGA A TIEMPO
-- [ ] Entregar a tiempo el proyecto.
+Comparte tu proyecto con tus demás compañeros y recibe feedback y también da retroalimentación a los proyectos de tus compañeros. :D
